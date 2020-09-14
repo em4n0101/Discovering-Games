@@ -5,7 +5,7 @@ import com.em4n0101.discoveringGames.model.Genre
 import com.em4n0101.discoveringGames.model.database.GameDatabaseDao
 import kotlinx.coroutines.flow.Flow
 
-class GamesRepositories(private val databaseDao: GameDatabaseDao) {
+class GamesRepository(private val databaseDao: GameDatabaseDao) {
     /**
      * Database operations
      */
