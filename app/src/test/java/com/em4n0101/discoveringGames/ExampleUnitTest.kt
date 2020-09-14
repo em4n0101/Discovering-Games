@@ -1,4 +1,4 @@
-package com.em4n0101.discoveringgames
+package com.em4n0101.discoveringGames
 
 import org.junit.Test
 

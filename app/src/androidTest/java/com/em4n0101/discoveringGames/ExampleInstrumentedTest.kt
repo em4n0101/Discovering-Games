@@ -1,4 +1,4 @@
-package com.em4n0101.discoveringgames
+package com.em4n0101.discoveringGames
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
